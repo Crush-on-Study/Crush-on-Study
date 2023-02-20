@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrush-on-Study&count_bg=%23090909&title_bg=%230FDB44&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## My Activity & BOJ Solve_Tier
-![Crush-on-Study's github stats](https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true)
+![Crush-on-Study's github stats](https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=larpore2)](https://solved.ac/larpore2/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crush-on-Study&layout=compact)](https://github.com/Crush-on-Study/github-readme-stats)
 
@@ -16,8 +16,13 @@
 ## DB_Skill
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=yellow)
 
+## OS
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/windows-FCC624?style=for-the-badge&logo=windows&logoColor=black) 
+
 ## Tool
-![AWS_Cloud](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)
+![AWS_Cloud](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 ## Etc.
 SQLD (46th SQLD Test Pass! Date : 22.09.30)
