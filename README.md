@@ -8,7 +8,7 @@
 
 
 ## Language_Skill
-![C++]<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+![C++](https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=purple)
@@ -16,5 +16,8 @@
 ## DB_Skill
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=yellow)
 
-## Certification
+## Tool
+![AWS_Cloud](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)
+
+## Etc.
 SQLD (46th SQLD Test Pass! Date : 22.09.30)
