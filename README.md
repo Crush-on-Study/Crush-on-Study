@@ -4,6 +4,7 @@
 ## My Activity & BOJ Solve_Tier
 ![Crush-on-Study's github stats](https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=larpore2)](https://solved.ac/larpore2/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crush-on-Study&layout=compact)](https://github.com/Crush-on-Study/github-readme-stats)
 
 
 ## Language_Skill
