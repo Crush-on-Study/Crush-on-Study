@@ -4,7 +4,7 @@
 ### Job Experience
 | NO  | 회사 | 소속 팀 | 직위 | 주 업무 내용 | SW 관련 기술 | 경력기간 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-|1| [LG Display](https://www.lgdisplay.com/kor;jsessionid=53A457D353426A7E6F6450A39C700DF5) | CTO직속 기반기술연구소 | 연구원 | 유해물질 저감 연구 | - | 2022.07.05 ~ 2022.12.19 ✅ |
+|1| [LG Display](https://www.lgdisplay.com/kor;jsessionid=53A457D353426A7E6F6450A39C700DF5) | CTO직속 | 사원 | 유해물질 저감 연구 | - | 2022.07.05 ~ 2022.12.19 ✅ |
 |2| [Onsemi Korea](https://www.onsemi.com/) | TEST | 사원 | 반도체 테스트 자동화 유지보수 / 회로설계 / 수율관리 | C/C++ | 2021.10.25 ~ 2022.06.15 ✅ | 
 |3| [KETI](https://www.keti.re.kr/main/main.php) | 스마트네트워크센터 | 인턴 | 회로설계 보조 | C/C++ | 2021.07.01 ~ 2021.09.28 ✅ | 
 
@@ -25,4 +25,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 ### Other Contact
-![Naver_Blog](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
+![Naver Blog](https://blog.naver.com/twonkang00)
+![velog](https://velog.io/@twonkang00)
+![Tistory Blog](https://crush-on-study.tistory.com/)
