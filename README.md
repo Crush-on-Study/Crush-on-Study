@@ -5,4 +5,4 @@
 
 
 ## Skill
-![C++](https://img.shields.io/badge/cpp-007396.svg?&style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-007396.svg?&style=for-the-badge&logo=C++&logoColor=white)
