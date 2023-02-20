@@ -8,6 +8,14 @@
 |2| [Onsemi Korea](https://www.onsemi.com/) | TEST | 사원 | 반도체 테스트 자동화 유지보수 / 회로설계 / 수율관리 | C/C++ | 2021.10.25 ~ 2022.06.15 ✅ | 
 |3| [KETI](https://www.keti.re.kr/main/main.php) | 스마트네트워크센터 | 인턴 | 회로설계 보조 | C/C++ | 2021.07.01 ~ 2021.09.28 ✅ | 
 
+### SW Activity
+| NO  | 회사 OR 기관 | 소속 팀 | 직위 |  활동기간 |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+|1| 삼성SDS | SCSA | 교육생 | 2023.01.16 ~  ✅ |
+|2| 비트코인 자동매매 | - | 개인 | 2022.07.17 ~  ✅ |
+|3| 데이터자격검정 | 제 46회 SQLD시험 | 합격 | 2022.09.30 취득 |
+
+
 ### My Activity & BOJ Solve_Tier
 ![Crush-on-Study's github stats](https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=larpore2)](https://solved.ac/larpore2/)
