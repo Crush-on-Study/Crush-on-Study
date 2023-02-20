@@ -25,6 +25,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 ### Other Contact
-![Naver Blog](https://blog.naver.com/twonkang00)
-![velog](https://velog.io/@twonkang00)
-![Tistory Blog](https://crush-on-study.tistory.com/)
+![naver](https://img.shields.io/badge/naver-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white)    [Naver Blog](https://blog.naver.com/twonkang00)
+
+![velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)    [velog](https://velog.io/@twonkang00)
+
+![tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)    [Tistory Blog](https://crush-on-study.tistory.com/)
