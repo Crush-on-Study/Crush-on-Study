@@ -20,7 +20,7 @@
 ![Crush-on-Study's github stats](https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=larpore2)](https://solved.ac/larpore2/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crush-on-Study&layout=compact&theme=highcontrast)](https://github.com/Crush-on-Study/github-readme-stats)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={larpore2}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=larpore2&theme=dark)
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
