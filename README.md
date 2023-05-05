@@ -1,6 +1,9 @@
 ## My Profile 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrush-on-Study&count_bg=%23090909&title_bg=%230FDB44&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### Notion (Recommend to Click!)
+https://kanghyunbin.notion.site/3611d2e27d7b471a9a6f8deb45392ac4
+
 ### Job Experience
 | NO  | 회사 | 소속 팀 | 직위 | 주 업무 내용 | SW 관련 기술 | 경력기간 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
