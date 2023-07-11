@@ -19,6 +19,9 @@
 ### My Activity & BOJ Solve_Tier
 ![Crush-on-Study's github stats](https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true&theme=radical)
 
+### BOJ Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zkuths12)](https://solved.ac/zkuths12/)
+
 ### Tech Stack
 ![C++](https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
