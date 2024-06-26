@@ -1,8 +1,5 @@
 ## My Profile 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrush-on-Study&count_bg=%23090909&title_bg=%230FDB44&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=아직 어설픈 SW꿈나무&fontSize=90" />
-</div>
 
 ### SW Activity
 | NO  | 회사 OR 기관 | 소속 팀 | 담당 |  활동기간 |
@@ -57,7 +54,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </div>
 <br>
-
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=그래도 꾸준히 한다!&fontSize=90" />
-</div>
