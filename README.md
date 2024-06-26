@@ -4,12 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Crush-on-Study?&fontSize=90" />
 </div>
 
-### Job Experience
-| NO  | 회사 | 소속 팀 | 직위 | 주 업무 내용 | SW 관련 기술 | 경력기간 |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-|1| [LG Display](https://www.lgdisplay.com/kor;jsessionid=53A457D353426A7E6F6450A39C700DF5) | CTO직속 | 사원 | 유해물질 저감 연구 | - | 2022.07.05 ~ 2022.12.19 ✅ |
-|2| [Onsemi](https://www.onsemi.com/) | TEST | 사원 | 반도체 테스트 자동화 유지보수 / 회로설계 / 수율관리 | C/C++ | 2021.10.25 ~ 2022.06.15 ✅ | 
-
 ### SW Activity
 | NO  | 회사 OR 기관 | 소속 팀 | 담당 |  활동기간 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
