@@ -18,9 +18,6 @@
 ![Crush-on-Study's github stats](https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crush-on-Study&layout=compact&theme=tokyonight)
 
-### BOJ Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zkuths12)](https://solved.ac/zkuths12/)
-
 ### Tech Stack
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
