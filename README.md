@@ -17,6 +17,7 @@
 ### My Activity & BOJ Solve_Tier
 ![Crush-on-Study's github stats](https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crush-on-Study&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zkuths12)](https://solved.ac/zkuths12/)
 
 ### Tech Stack
 <div align=center>
@@ -24,6 +25,7 @@
 	<p>✨ Languages & DB & OS ✨</p>
 </div>
 <div align="center">
+  <img src = "https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
