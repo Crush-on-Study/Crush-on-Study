@@ -1,7 +1,7 @@
 # Frontend Developer Portfolio
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+HyunBin%F0%9F%9A%80;Passionate+about+Modern+Web;React+%7C+Vue+%7C+TypeScript;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+HyunBin%F0%9F%9A%80;Passionate+about+Modern+Web;React+%7C+Vue+%7C+Three.js;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 	<br><br>
   
   <a href="https://myresume-3d74d.web.app/" target="_blank">
