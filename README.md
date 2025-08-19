@@ -1,4 +1,4 @@
-# Frontend Developer Portfolio
+# Hyun Bin's Github World
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+HyunBin%F0%9F%9A%80;Passionate+about+Modern+Web;React+%7C+Vue+%7C+Three.js;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
@@ -166,7 +166,7 @@
 <div align="center">
   
 ### **"사람은 누구나 창작 욕구가 있다, 나는 그걸 화면에 표현했다"** 
-
+#### "방구석 개발자 HB"
 <img src="https://komarev.com/ghpvc/?username=Crush-on-Study&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 </div>
