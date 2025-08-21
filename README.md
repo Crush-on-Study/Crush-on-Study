@@ -35,10 +35,10 @@
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Crush-on-Study&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Binkoon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crush-on-Study&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binkoon&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
@@ -167,6 +167,6 @@
   
 ### **"사람은 누구나 창작 욕구가 있다, 나는 그걸 화면에 표현했다"** 
 #### "방구석 개발자 HB"
-<img src="https://komarev.com/ghpvc/?username=Crush-on-Study&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Binkoon&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 </div>
