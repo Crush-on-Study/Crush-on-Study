@@ -12,19 +12,19 @@
 ---
 
 ## **Current Projects & Activities**
-
+Status 설명 : Active는 운영 중,  Completed는 개발만 완료 & 미운영 상태 , In Progress는 개발 중, Planning은 기획 중
 <div align="center">
   
 | **Status** | **Project** | **Workplace** | **Role** | **Duration** | **Type** | **Team** | **Stack** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | ✨ **Active** | My Resume | Personal | Full-Stack | `2025.08.01` ~ `2025.08.09` | **Web** | `1 Person` | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) |
-| 🔥 **In Progress** | 공동운항 크롤링 및 대시보드 | Company | Planning & FE & Crawling | `2025.06.20` ~ `2025.08.22` | **Web** | `4 People` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ✨ **Active** | 공동운항 크롤링 및 대시보드 | Company | Planning & FE & Crawling | `2025.06.20` ~ `2025.08.29` | **Web** | `4 People` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | ✅ **Completed** | SR Manager | Company | FE/BE | `2025.03.10` ~ `2025.03.25` | **Web** | `2 People` | ![Vue](https://img.shields.io/badge/-Vue2-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
 | ✅ **Completed** | Lunch Insects | Personal | Full-Stack | `2025.03.11` ~ `2025.03.16` | **Web** | `1 Person` | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
 | ✅ **Completed** | 제조업을 위한 탄소 데이터 플랫폼 | Company | Data Analysis & FE | `2023.07.01` ~ `2024.08.31` | **Web** | `2 People + Outsourcing` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🔥 **In Progress** | Black Market | Personal | Planning & FE & Design | `2025.08.09` ~ | **Web** | `2 People` | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) |
 | 💭 **Planning** | CS Study Helper | Personal | Full-Stack | TBD | **App** | `2 People` | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white) |
-| 💭 **Planning** | CV 자동 생성기 | Personal | Full-Stack | TBD | **Web** | `2 People` | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) |
+| 🔥 **In Progress** | CV 자동 생성기 | Personal | Full-Stack | TBD | **Web** | `2 People` | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) |
 
 </div>
 
