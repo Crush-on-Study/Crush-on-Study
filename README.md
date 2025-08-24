@@ -24,6 +24,7 @@
 | ✅ **Completed** | 제조업을 위한 탄소 데이터 플랫폼 | Company | Data Analysis & FE | `2023.07.01` ~ `2024.08.31` | **Web** | `2 People + Outsourcing` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🔥 **In Progress** | Black Market | Personal | Planning & FE & Design | `2025.08.09` ~ | **Web** | `2 People` | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) |
 | 💭 **Planning** | CS Study Helper | Personal | Full-Stack | TBD | **App** | `2 People` | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white) |
+| 💭 **Planning** | CV 자동 생성기 | Personal | Full-Stack | TBD | **Web** | `2 People` | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) |
 
 </div>
 
